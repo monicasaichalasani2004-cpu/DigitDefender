@@ -1,0 +1,6 @@
+{
+  "monica": "Configured the Python environment, executed all five experiments, verified model accuracy, tested malicious-client detection, and generated performance graphs.",
+  "harika": "Responsible for methodology review, experimental result analysis, technical documentation review, and demonstration preparation.",
+  "lessons": "Gained practical experience in centralized learning, federated learning, data poisoning detection, robust aggregation, and model evaluation.",
+  "limitations": "The experiments were limited to MNIST, ten clients, one malicious client, and ten global training rounds. Performance against unseen instructor attacks remains unverified."
+}
